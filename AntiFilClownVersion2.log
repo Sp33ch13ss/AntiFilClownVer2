@@ -1,0 +1,40 @@
+﻿  graph.c
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(85,51): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(90,31): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(94,9): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "int"
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(94,9): message : рекомендуется использовать "%u" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(94,9): message : рекомендуется использовать "%Iu" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(94,9): message : рекомендуется использовать "%I32u" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(97,10): warning C4477: "printf": в строке форматирования "%llu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "1" имеет тип "int"
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(97,10): message : рекомендуется использовать "%u" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(97,10): message : рекомендуется использовать "%Iu" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(97,10): message : рекомендуется использовать "%I32u" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(100,31): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(121,31): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(117,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(185,31): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(191,47): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(209,54): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(263,31): warning C4244: функция: преобразование "unsigned __int64" в "unsigned long", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(262,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(266,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(270,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(277,4): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(285,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(309,82): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(310,61): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(345,13): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(345,13): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(345,13): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): warning C4477: "printf": в строке форматирования "%2d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "unsigned __int64"
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(347,13): message : рекомендуется использовать "%I64d" в строке форматирования
+  main.c
+  Создание кода...
+C:\Users\bsodf\Desktop\AntiFilVer2\graph.c(292): warning C4715: graph_input: значение возвращается не при всех путях выполнения
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/OPT:ICF"
+  AntiFilClownVersion2.vcxproj -> C:\Users\bsodf\Desktop\AntiFilVer2\Release\AntiFilClownVersion2.exe
